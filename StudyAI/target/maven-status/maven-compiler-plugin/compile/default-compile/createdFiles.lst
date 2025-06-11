@@ -1,0 +1,9 @@
+com\jacob\studyai\NotesUI.class
+com\jacob\studyai\TextCleaner.class
+com\jacob\studyai\NotesUI$1.class
+com\jacob\studyai\NoteLoader.class
+com\jacob\studyai\QAParser.class
+com\jacob\studyai\QAUI.class
+com\jacob\studyai\ConsoleMenu.class
+com\jacob\studyai\QAParser$QA.class
+com\jacob\studyai\CohereClient.class

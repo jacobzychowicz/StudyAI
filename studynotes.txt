@@ -1,0 +1,11 @@
+Cell: The smallest structural and functional unit of all living organisms. 
+Enzyme: A protein that acts as a biological catalyst, speeding up chemical reactions in cells. 
+Photosynthesis: The process by which green plants, algae, and some bacteria use sunlight to synthesize nutrients from carbon dioxide and water. 
+Mitosis: A type of cell division that results in two genetically identical daughter cells from a single parent cell. 
+Osmosis: The diffusion of water molecules across a semipermeable membrane from a region of low solute concentration to high solute concentration. 
+Ecosystem: A community of interacting organisms and their physical environment. 
+Nucleotide: The basic building block of DNA and RNA, consisting of a sugar, phosphate, and nitrogenous base. 
+Gravity: The force that attracts two bodies toward each other, proportional to their masses and inversely proportional to the square of the distance between them. 
+Acceleration: The rate of change of velocity of an object per unit of time. 
+Atom: The smallest unit of matter that retains the properties of an element. 
+Ion: An atom or molecule with a net electric charge due to the loss or gain of one or more electrons.
